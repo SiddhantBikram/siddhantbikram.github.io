@@ -8,3 +8,17 @@ redirect_from:
   - /about.html
 ---
 
+I am a graduate from the Department of Computer Science and Engineering, Delhi Technological University. Currently, I am working as a research intern under the supervision of [Dr. Haohan Wang](https://haohanwang.github.io/). I am also completing a research internship under the supervision of [Dr. Aikaterini Bourazeri](https://www.essex.ac.uk/people/BOURA96709/Katerina-Bourazeri).
+
+Previously, I worked as a research intern at [BASIRA Lab, Imperial College London](https://basira-lab.com/) under the supervision of [Dr. Islem Rekik](https://ix.imperial.ac.uk/profiles/islem-rekik/).
+
+My current research interests are: 
+
++ Trustworthy AI (Robustness and Interpretability)
++ Multimodal Learning (Vision + Language)
++ Causality in Machine Learning 
+
+..with application to:
+
++ Healthcare
++ Computational Social Science
