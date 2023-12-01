@@ -14,7 +14,7 @@ Previously, I worked as a research intern at [BASIRA Lab, Imperial College Londo
 
 My current research interests are: 
 
-+ Trustworthy AI (Robustness and Interpretability)
++ Trustworthy AI (Robustness and Fairness)
 + Multimodal Learning (Vision+Language)
 + Causality in Machine Learning (Mitigating purious patterns)
 
