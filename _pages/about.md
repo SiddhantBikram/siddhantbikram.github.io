@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Siddhant Bikram Shah"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,7 +16,7 @@ My current research interests are:
 
 + Trustworthy AI (Robustness and Fairness)
 + Multimodal Learning (Vision+Language)
-+ Causality in Machine Learning (Mitigating purious patterns)
++ Causality in Machine Learning 
 
 ..with application to:
 

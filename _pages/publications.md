@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=XPBVLl4AAAAJ&hl=en)
 
-+ - [CrisisHateMM: Multimodal Analysis of Directed and Undirected Hate Speech in Text-Embedded Images from Russia-Ukraine Conflict](https://openaccess.thecvf.com/content/CVPR2023W/MMCM/html/Bhandari_CrisisHateMM_Multimodal_Analysis_of_Directed_and_Undirected_Hate_Speech_in_CVPRW_2023_paper.html)
++ [CrisisHateMM: Multimodal Analysis of Directed and Undirected Hate Speech in Text-Embedded Images from Russia-Ukraine Conflict](https://openaccess.thecvf.com/content/CVPR2023W/MMCM/html/Bhandari_CrisisHateMM_Multimodal_Analysis_of_Directed_and_Undirected_Hate_Speech_in_CVPRW_2023_paper.html)
 
 - Aashish Bhandari\*, **Siddhant Bikram Shah**\*, Surendrabikram Thapa\*, Usman Naseem, Mehwish Nasim
 
