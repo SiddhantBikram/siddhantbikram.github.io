@@ -9,9 +9,9 @@ author_profile: true
 
 + [CrisisHateMM: Multimodal Analysis of Directed and Undirected Hate Speech in Text-Embedded Images from Russia-Ukraine Conflict](https://openaccess.thecvf.com/content/CVPR2023W/MMCM/html/Bhandari_CrisisHateMM_Multimodal_Analysis_of_Directed_and_Undirected_Hate_Speech_in_CVPRW_2023_paper.html)
 
-- Aashish Bhandari\*, **Siddhant Bikram Shah**\*, Surendrabikram Thapa\*, Usman Naseem, Mehwish Nasim
+Aashish Bhandari\*, **Siddhant Bikram Shah**\*, Surendrabikram Thapa\*, Usman Naseem, Mehwish Nasim
 
-- In 2023 MMCM Workshop, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
+In 2023 MMCM Workshop, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
 Recognition (pp. 1993-2002).
 
 + [Emotion Recognition in Speech by Multimodal Analysis of Audio and Text](https://ieeexplore.ieee.org/document/10048872/)
